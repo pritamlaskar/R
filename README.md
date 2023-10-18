@@ -1,2 +1,6 @@
 # R
-Data analytics projects in R programming language
+R is renowned for its extensive set of statistical and graphical tools, making it a top choice for professionals and enthusiasts in fields ranging from data science and research to finance and beyond. With a vibrant open-source community and a rich collection of packages, R empowers users to explore, visualize, and draw insights from data. 
+
+This repository comprises of the following projects:
+
+• ***R_SusRtlx***: In this analysis, a study involving 100 participants explored the relationship between subjective workload and system usability in the use of voice user interfaces. Participants completed a set of 10 tasks with Amazon Alexa via an Echo smart speaker and were subsequently asked to fill out two questionnaires: the Raw NASA Task Load Index (RTLX) and the System Usability Scale (SUS). RTLX is a 6-item questionnaire assessing the subjective workload of tasks across various dimensions, while SUS is a 10-item Likert scale questionnaire measuring perceived system usability. The analysis tasks in R encompassed data cleaning, exploratory data analysis, descriptive statistics, graph generation, and inferential statistical analysis to test the hypothesis that there is a statistically significant relationship between RTLX and SUS. The results revealed a correlation of 0.68 and a p-value of 4.281e-15, indicating a significant relationship and leading to the acceptance of the alternative hypothesis.
